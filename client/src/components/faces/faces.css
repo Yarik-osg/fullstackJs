@@ -1,0 +1,70 @@
+.greenFace{
+    /*transform: rotate(180deg);*/
+    position: absolute;
+    height: 97px;
+    width: 45.4649658203125px;
+    left: 1382.4649658203125px;
+    top: 750px;
+
+    background: #46EBB0;
+    border-radius: 0px 0px 500px 5000px;
+}
+.purpleCenterFace{
+    left: 1100.7881965637207px;
+    top: 360.15362071990966797px;
+    border-radius: 50%;
+    position: absolute;
+    transform: scale(0.65);
+    background: #F472B7;
+}
+
+
+
+
+
+
+
+
+.purpleBottomFace{
+
+    left: 100.7881965637207px;
+    top: 710.15362071990966797px;
+    border-radius: 50%;
+    position: absolute;
+
+    transform: scale(0.65);
+    background: #F472B7;
+}
+.yellowCenterFace{
+    left: 1100.7881965637207px;
+    top: 335.15362071990966797px;
+    border-radius: 50%;
+    position: absolute;
+
+}
+.yellowRightFace{
+    left: 1800.7881965637207px;
+    top: 800.15362071990966797px;
+    border-radius: 50%;
+    position: absolute;
+}
+.Sun{
+    left: 950.7881965637207px;
+    top: 50.15362071990966797px;
+    border-radius: 50%;
+    position: absolute;
+}
+.Cloud1{
+    left: 650.7881965637207px;
+    top: 580.15362071990966797px;
+    border-radius: 50%;
+    position: absolute;
+    transform: scale(1.4);
+}
+.Cloud2{
+    left: 1100.7881965637207px;
+    top: 150.15362071990966797px;
+    transform: scale(1.6);
+    position: absolute;
+    /*background-color: black;*/
+}

@@ -1,0 +1,20 @@
+body,html{
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+
+}
+.MainContainer{
+  height: 80%;
+
+}
+
+
+.App{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
